@@ -15,7 +15,7 @@ GitHub Actionsを使用して1日に1回、QiitaやZennのトレンド記事をs
     * デフォルトでは日本時間の朝9時に通知されるようになっています．
 
     ```yaml
-    name: paper-summary-tweet-notification
+    name: qiita-zenn-trend-notification
 
     on:
       schedule:
